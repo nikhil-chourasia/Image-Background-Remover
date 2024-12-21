@@ -47,16 +47,6 @@ Ensure you have the following installed on your system:
 
 4. The script will process the image and save the output as `output.png` in the same folder. 🖼️✨
 
-## Example 🌟
-
-**Input:**
-
-![Input Image](https://via.placeholder.com/300x200.png?text=Input+Image)
-
-**Output:**
-
-![Output Image](https://via.placeholder.com/300x200.png?text=Output+Image+%28Transparent%29)
-
 ## How It Works 🤔
 
 1. The script uses the `rembg` library to process the background removal. ✂️
